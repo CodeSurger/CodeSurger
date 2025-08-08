@@ -1,5 +1,5 @@
 # Hey, I'm Yehor Bubyr 👋
-**Senior React Native Developer** — 6+ years building high-performance mobile apps with **TypeScript, React Native (CLI & Expo), GraphQL, Redux, Jest, CI/CD**.
+**Senior React Native Developer** — 6+ years building high-performance mobile apps with **TypeScript, React Native (CLI & Expo)**.
 
 - Architecting clean, modular codebases (Clean Architecture, SOLID).
 - Focus: performance, offline-first, accessibility, DX.
