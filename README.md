@@ -6,7 +6,7 @@
 - Domains: fintech, healthcare, cleantech, mobility.
 
 ## 🔧 Tech
-React Native · TypeScript · JavaScript · Redux Toolkit · Reanimated · Jest/RTL · Detox · GraphQL/Apollo · REST · WebSockets · Native Modules
+React Native · TypeScript
 
 ## 💬 Contact
 [LinkedIn](https://www.linkedin.com/in/yehor-bubyr/) • [Email](mailto:yehorbubyr@gmail.com)
