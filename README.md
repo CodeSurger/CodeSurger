@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm CodeSurger 👋
+**Senior React Native Developer** — 6+ years building high-performance mobile apps with **TypeScript, React Native (CLI & Expo), GraphQL, Redux, Jest, CI/CD**.
 
-<!--
-**CodeSurger/CodeSurger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Architecting clean, modular codebases (Clean Architecture, SOLID).
+- Focus: performance, offline-first, accessibility, DX.
+- Domains: fintech, healthcare, cleantech, mobility.
 
-Here are some ideas to get you started:
+## 🔧 Tech
+React Native · TypeScript · JavaScript · Redux Toolkit · Reanimated · Jest/RTL · Detox · GraphQL/Apollo · REST · WebSockets · Native Modules · Fastlane · EAS · GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=CodeSurger&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSurger&layout=compact)
+
+## 💬 Contact
+[LinkedIn](https://www.linkedin.com/in/yehor-bubyr/) • [Email](mailto:yehorbubyr@gmail.com)
