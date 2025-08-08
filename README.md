@@ -1,4 +1,4 @@
-# Hey, I'm CodeSurger 👋
+# Hey, I'm Yehor Bubyr 👋
 **Senior React Native Developer** — 6+ years building high-performance mobile apps with **TypeScript, React Native (CLI & Expo), GraphQL, Redux, Jest, CI/CD**.
 
 - Architecting clean, modular codebases (Clean Architecture, SOLID).
