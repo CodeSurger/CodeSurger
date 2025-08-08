@@ -2,7 +2,7 @@
 **Senior React Native Developer** — 6+ years building high-performance mobile apps with **TypeScript, React Native (CLI & Expo)**.
 
 - Architecting clean, modular codebases (Clean Architecture, SOLID).
-- Focus: performance, offline-first, accessibility, DX.
+- Focus: performance, offline-first, accessibility.
 - Domains: fintech, healthcare, cleantech, mobility.
 
 ## 🔧 Tech
