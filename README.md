@@ -1,4 +1,4 @@
-# CodeSurger 👨‍💻⚛️👋
+# Yehor 👨‍💻⚛️👋
 Senior React Native Developer | TypeScript Enthusiast
 
 ```
