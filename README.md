@@ -1,4 +1,4 @@
-# Yehor 👨‍💻⚛️👋
+# Yehor Bubyr 👨‍💻⚛️👋
 Senior React Native Developer | TypeScript Enthusiast
 
 ```
