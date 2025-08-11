@@ -1,14 +1,14 @@
 # CodeSurger 👨‍💻⚛️👋
-Hi there, I'm Yehor, an enthusiast developer in love with TypesScript!
+Senior React Native Developer | TypeScript Enthusiast
 
 ```
 let Yehor = {
     '🌱 age': 24,
-    '⏳ experience': '6 years +',
+    '📱 experience': '6+ years in mobile development, focusing on React Native',
     '💻 my own "dev" parking place': '@code_surge_blog'
 };
 ```
-### 🔧 Languages and Tools:
+### 🧰 Tech Stack:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
@@ -27,7 +27,7 @@ let Yehor = {
 </p>
 
 
-## 💬 Contact
+## 📫 Contact
 <p align="left" target="_blank">
     <a href="https://www.linkedin.com/in/yehor-bubyr/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
