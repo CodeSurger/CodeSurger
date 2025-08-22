@@ -1,5 +1,5 @@
-# Yehor Bubyr 👨‍💻⚛️👋
-Senior React Native Developer | TypeScript Enthusiast
+# Yehor Bubyr 👋
+React/React Native Developer
 
 ```
 let Yehor = {
@@ -29,10 +29,6 @@ let Yehor = {
 
 ## 📫 Contact
 <p align="left" target="_blank">
-    <a href="https://www.linkedin.com/in/yehor-bubyr/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-    </a>
-    <a href="mailto:yehorbubyr@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="40" height="40"/>
-    </a>
+    <a href="https://www.linkedin.com/in/yehor-bubyr/">LinkedIn</a>
+    <a href="mailto:yehorbubyr@gmail.com">Gmail</a>
 </p>
