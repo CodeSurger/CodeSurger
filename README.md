@@ -3,7 +3,7 @@ React/React Native Developer
 
 ```
 let Yehor = {
-    '🌱 age': 24,
+    '🌱 age': 25,
     '📱 experience': '6+ years in mobile development, focusing on React Native',
     '💻 my own "dev" parking place': '@code_surge_blog'
 };
